@@ -45,15 +45,3 @@ Augusto Martins
 Michelle Kimura
 * [Linkedin](https://www.linkedin.com/in/michellenkimura)
 * [Github](https://github.com/minaki42)
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/FridayNightJams/10day-themed-game-jam-4/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/FridayNightJams/10day-themed-game-jam-4/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/FridayNightJams/10day-themed-game-jam-4/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/FridayNightJams/10day-themed-game-jam-4/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/FridayNightJams/10day-themed-game-jam-4/blob/master/LICENSE.txt
