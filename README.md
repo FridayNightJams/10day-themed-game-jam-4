@@ -7,7 +7,7 @@
 # 
 <br />
 <p align="center">
-  <h3 align="center">10 Day Themed Game Jam #4</h3>
+  <h1 align="center">10 Day Themed Game Jam #4</h1>
 </p>
 
 
