@@ -4,11 +4,11 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+# 
 <br />
 <p align="center">
-  <h1 align="center">10 Day Themed Game Jam #4</h1>
+  <h3 align="center">10 Day Themed Game Jam #4</h3>
 </p>
-<br />
 
 
 ## Theme:
